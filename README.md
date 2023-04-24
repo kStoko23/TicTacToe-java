@@ -6,7 +6,6 @@ It's a small personal project made to for a simple reason of better understandin
 
 # Features
 -    2 players: Player X and Player O
--    Customizable game board color
 -    Displays a dialog with the game result (win or draw) when the game ends
 -    Includes a button to restart the game after it ends
 # Getting started
